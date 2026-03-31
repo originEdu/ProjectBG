@@ -11,4 +11,5 @@
   - **Blueprints**: 게임 로직 및 액터 클래스
     - `Character`: 플레이어 및 NPC 로직
     - `Core`: GameMode, PlayerController 등 핵심 시스템
+    - `Utils`: math관련 유틸 전역함수
   - **Maps**
